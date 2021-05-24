@@ -17,26 +17,21 @@ Necesitamos:
 * Al finalizar el desarrollo de los tests, se debe realizar un **Pull Request** al repositorio original.
 
 ### ¿Qué debe contener el plan de pruebas?
-
+* Tipo de prueba
+* Nombre que represente validación a realizar.
+* Descripción
+* Resultado Esperado
+* Flujo Normal
+* Flujos Alternativos
+* Flujos Negativos
 ### ¿Qué debe cubrir la automatización?
-
+* Funcionalidades críticas, que al fallar, impacten directamente con el funcionamiento principal del aplicativo
 ### ¿Qué debemos evidenciar?
-
+* Todas los test realizados
 # Tests
 En este apartado se debe agregar:
 * Libreria usada y explicación.
 * Plan de pruebas o el Url para acceder al documento.
-
-Flujos Requeridos:
-* Register ( Admin )
-* Login
-* Profile - Update Profile
-* Logout
-
-Extra:
-* Admin - Manage Users ( CRUD - Perfil User )
-* Login - Nuevo User
-
 ## Pasos para correr los test
 Agregar los pasos para correr pruebas en local.
 Agregar los pasos para correr pruebas en el [url ⚡️](https://sura-qa-chernobyl-test.stackblitz.io/account/login)
