@@ -25,13 +25,14 @@ Necesitamos:
 * Flujos Alternativos
 * Flujos Negativos
 ### ¿Qué debe cubrir la automatización?
-* Funcionalidades críticas, que al fallar, impacten directamente con el funcionamiento principal del aplicativo
+* Funcionalidades críticas, que al fallar, impacten directamente con el funcionamiento principal del aplicativo.
 ### ¿Qué debemos evidenciar?
-* Todas los test realizados
+* Todas los test realizados.
 # Tests
 En este apartado se debe agregar:
 * Libreria usada y explicación.
 * Plan de pruebas o el Url para acceder al documento.
 ## Pasos para correr los test
-Agregar los pasos para correr pruebas en local.
-Agregar los pasos para correr pruebas en el [url ⚡️](https://sura-qa-chernobyl-test.stackblitz.io/account/login)
+Agregar:
+* Pasos para correr pruebas en local.
+* Pasos para correr pruebas online en el [url ⚡️](https://sura-qa-chernobyl-test.stackblitz.io/account/login)
