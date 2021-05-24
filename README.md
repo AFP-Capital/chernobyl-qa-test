@@ -24,8 +24,19 @@ Necesitamos:
 
 # Tests
 En este apartado se debe agregar:
+* Libreria usada y explicación.
 * Plan de pruebas o el Url para acceder al documento.
 
+Flujos Requeridos:
+* Register ( Admin )
+* Login
+* Profile - Update Profile
+* Logout
+
+Extra:
+* Admin - Manage Users ( CRUD - Perfil User )
+* Login - Nuevo User
+
 ## Pasos para correr los test
-Agregar los pasos para correr las pruebas en local.
-Agregar los pasos para correr las pruebas en el [url ⚡️](https://sura-qa-chernobyl-test.stackblitz.io/account/login)
+Agregar los pasos para correr pruebas en local.
+Agregar los pasos para correr pruebas en el [url ⚡️](https://sura-qa-chernobyl-test.stackblitz.io/account/login)
