@@ -34,4 +34,4 @@ En este apartado se debe agregar:
 * Plan de pruebas o el Url para acceder al documento.
 ## Pasos para correr los test
 Agregar:
-* Pasos para correr pruebas online apuntando al [url ⚡️](https://sura-qa-chernobyl-test.stackblitz.io/account/login)
+* Pasos para ejecutar pruebas online apuntando al [url ⚡️](https://sura-qa-chernobyl-test.stackblitz.io/account/login)
