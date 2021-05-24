@@ -1,5 +1,5 @@
 # Test Analista QA (Agile)
-Hola <img src="https://media.giphy.com/media/6jEy9iuIqd82pdueKG/giphy.gif" width="25px">!!!
+Hola <img src="https://media.giphy.com/media/6jEy9iuIqd82pdueKG/giphy.gif" width="25px">!!!  
 Si estas leyendo esto es porque avanzaste en el proceso de selección para el puesto de **Analista QA (Agile)**, nos gusta tu perfil y queremos que seas parte de nuestro equipo; pero antes queremos saber más sobre tus capacidades técnicas y resolución de problemas.
 
 ## ¿Qué debes hacer?
