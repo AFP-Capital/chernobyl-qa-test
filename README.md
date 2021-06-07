@@ -15,7 +15,7 @@ Necesitamos:
 	* Evidencias ( respaldadas dentro del mismo proyecto )
 	* Documentar los pasos para ejecutar las pruebas en el archivo README en el apartado de [Tests](https://github.com/AFP-Capital/chernobyl-qa-test#Tests)
 * Al finalizar la automatización, debe subir todas las actualizaciones a su repositorio personal.
-* Enviar el url de su repositorio personal en respuesta al correo de la prueba.
+* Enviar el url del repositorio personal en respuesta al correo de la prueba.
 
 ### ¿Qué debe contener el plan de pruebas?
 * Tipo de prueba
