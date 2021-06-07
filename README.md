@@ -8,13 +8,14 @@ Es un CRUD de usuarios con login.
 
 Necesitamos:
 * Realices un **Fork** de este proyecto en tu repositorio personal de github.
-* Selecciones una librería para realizar los tests. ( explicar porque la selección ).
+* Seleccionar una herramienta parea realizar la automatización. ( explicar porque la selección ).
 * Desarrollar y documentar:
 	* Plan de pruebas 
 	* Automatización
 	* Evidencias ( respaldadas dentro del mismo proyecto )
 	* Documentar los pasos para ejecutar las pruebas en el archivo README en el apartado de [Tests](https://github.com/AFP-Capital/chernobyl-qa-test#Tests)
-* Al finalizar el desarrollo de los tests, se debe realizar un **Pull Request** al repositorio original.
+* Al finalizar la automatización, debe subir todas las actualizaciones a su repositorio personal.
+* Enviar el url de su repositorio personal en respuesta al correo de la prueba.
 
 ### ¿Qué debe contener el plan de pruebas?
 * Tipo de prueba
