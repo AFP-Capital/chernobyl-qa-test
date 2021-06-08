@@ -26,7 +26,8 @@ Necesitamos:
 * Flujos Alternativos
 * Flujos Negativos
 ### ¿Qué debe cubrir la automatización?
-* Funcionalidades críticas, que al fallar, impacten directamente con el funcionamiento principal del aplicativo.
+* Registro y Login (Obligatorios).
+* El resto de flujos serán tomados como puntos extra para la prueba.
 ### ¿Qué debemos evidenciar?
 * Todos los test realizados.
 # Tests
